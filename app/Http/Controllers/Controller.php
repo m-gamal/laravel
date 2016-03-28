@@ -16,4 +16,10 @@ class Controller extends BaseController
     {
     
     }
+
+    /* MG Freelancer */
+    public function newOne()
+    {
+
+    }
 }
